@@ -137,10 +137,11 @@ i {
     transition: margin 0.3s;
 }
 
-.btn-new { top: 45px;}
+.btn-score {top: 12px;}
+.btn-new { top: 60px;}
 .btn-roll { top: 403px;}
 .btn-hold { top: 467px;}
-.btn-score {top: 12px;}
+
 
 .dice {
     position: absolute;
